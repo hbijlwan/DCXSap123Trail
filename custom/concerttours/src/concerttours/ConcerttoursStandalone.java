@@ -20,6 +20,7 @@ import de.hybris.platform.util.Utilities;
  */
 public class ConcerttoursStandalone
 {
+
 	/**
 	 * Main class to be able to run it directly as a java program.
 	 *

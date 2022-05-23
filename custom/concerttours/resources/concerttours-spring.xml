@@ -97,6 +97,8 @@
   <property name="importService" ref="importService"/>
   </bean>
   
+  <bean id="concertDaysUntilAttributeHandler" class="concerttours.attributehandlers.ConcertDaysUntilAttributeHandler"/>
+  
   <alias name="defaultBandService" alias="bandService" />
 	<bean id="defaultBandService"
 		class="concerttours.service.impl.DefaultBandService">
